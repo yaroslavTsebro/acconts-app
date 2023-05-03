@@ -9,7 +9,7 @@ import router from "./router";
 
 const app = express();
 const PORT = 5000
-const MONGO_URL = "mongodb+srv://typescript:typescript@clusterts.ibyp3ns.mongodb.net/?retryWrites=true&w=majority"
+const MONGO_URL = ""
 
 app.use(cors({
     credentials: true,
