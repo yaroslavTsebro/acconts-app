@@ -1,4 +1,4 @@
 # acconts-app
 
 Simple CRUD using ts, express, cookies, mongo.
-There are several middlevares include auth.
+There are several middlewares include auth. middleware
